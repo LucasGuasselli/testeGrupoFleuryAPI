@@ -1,0 +1,3 @@
+C:\projetos_C#\testeGrupoFleuryAPI\TesteGrupoFleury.Repository\bin\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.dll
+C:\projetos_C#\testeGrupoFleuryAPI\TesteGrupoFleury.Repository\obj\Debug\netstandard2.0\testeGrupoFleuryAPIRepository.AssemblyInfoInputs.cache
+C:\projetos_C#\testeGrupoFleuryAPI\TesteGrupoFleury.Repository\obj\Debug\netstandard2.0\testeGrupoFleuryAPIRepository.AssemblyInfo.cs

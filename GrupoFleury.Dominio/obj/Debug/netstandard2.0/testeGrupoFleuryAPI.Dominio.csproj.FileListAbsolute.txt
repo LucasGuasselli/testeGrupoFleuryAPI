@@ -1,0 +1,9 @@
+C:\projetos_C#\testeGrupoFleuryAPI\GrupoFleury.Dominio\bin\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.deps.json
+C:\projetos_C#\testeGrupoFleuryAPI\GrupoFleury.Dominio\bin\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.dll
+C:\projetos_C#\testeGrupoFleuryAPI\GrupoFleury.Dominio\bin\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.pdb
+C:\projetos_C#\testeGrupoFleuryAPI\GrupoFleury.Dominio\obj\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.AssemblyInfoInputs.cache
+C:\projetos_C#\testeGrupoFleuryAPI\GrupoFleury.Dominio\obj\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.AssemblyInfo.cs
+C:\projetos_C#\testeGrupoFleuryAPI\GrupoFleury.Dominio\obj\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.csproj.CoreCompileInputs.cache
+C:\projetos_C#\testeGrupoFleuryAPI\GrupoFleury.Dominio\obj\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.dll
+C:\projetos_C#\testeGrupoFleuryAPI\GrupoFleury.Dominio\obj\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.pdb
+C:\projetos_C#\testeGrupoFleuryAPI\GrupoFleury.Dominio\obj\Debug\netstandard2.0\testeGrupoFleuryAPI.Dominio.csprojAssemblyReference.cache
