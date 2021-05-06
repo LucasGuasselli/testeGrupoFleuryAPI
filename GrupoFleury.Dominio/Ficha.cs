@@ -8,7 +8,7 @@ namespace testeGrupoFleuryAPI.Dominio
     public class Ficha
     {
         public int Id { get; set; }
-        public DateTime DataNascimento { get; set; }
+        public DateTime DataAtendimento { get; set; }
         public Cliente Cliente { get; set; }
         public int ClienteId { get; set; }
         public Unidade Unidade { get; set; }
