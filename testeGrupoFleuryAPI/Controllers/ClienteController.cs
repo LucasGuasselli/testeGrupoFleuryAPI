@@ -24,8 +24,8 @@ namespace testeGrupoFleuryAPI.Controllers
        [HttpGet]
        public ActionResult Get()
        {
-           var Clientes = _context.Clientes.ToList();
-              return Ok(Clientes);
+           var clientes = _context.Clientes.ToList();
+              return Ok(clientes);
        }
 
         // GET: api/<ClienteController>/5

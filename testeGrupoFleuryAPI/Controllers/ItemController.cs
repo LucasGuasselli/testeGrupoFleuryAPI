@@ -11,38 +11,40 @@ namespace testeGrupoFleuryAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UnidadeController : Controller
+    public class ItemController : Controller
     {
                
        public readonly FichaContext _context;
-       public UnidadeController(FichaContext context)
+       public ItemController(FichaContext context)
        {
           _context = context;
        }
 
-       // GET: api/<UnidadeController>
+       // GET: api/<ItemController>
        [HttpGet]
        public ActionResult Get()
        {
-           var unidades = _context.Unidades.ToList();
-              return Ok(unidades);
+           var itens = _context.Itens.ToList();
+              return Ok(itens);
        }
 
-    /*
-        //SOMENTE PARA TESTE
+        /*
+         
+        //USADO SOMENTE PARA TESTE
 
-        // GET: api/<UnidadeController>/5
+        // GET: api/<ItemController>/5
         [HttpGet("{id}")]
         public ActionResult Get(int id)
         {
-            var unidade = new Unidade { Nome = "Nilo" };
+            var item = new Item { SiglaExame = "PCR", FichaId = 1};
             using (var contexto = new FichaContext())
             {
-                contexto.Unidades.Add(unidade);
+                contexto.Itens.Add(item);
                     contexto.SaveChanges();
             }
             return Ok();
         }
-    */
+        */
+
     }
 }
