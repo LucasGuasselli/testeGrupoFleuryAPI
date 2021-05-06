@@ -36,8 +36,7 @@ namespace testeGrupoFleuryAPI.Controllers
             using (var contexto = new FichaContext())
             {
                 contexto.Clientes.Add(cliente);
-
-                contexto.SaveChanges();
+                    contexto.SaveChanges();
             }
             return Ok();
         }
