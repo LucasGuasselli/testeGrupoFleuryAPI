@@ -64,8 +64,6 @@ C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\D
 C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\obj\Debug\netcoreapp3.1\testeGrupoFleuryAPI.csprojAssemblyReference.cache
 C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\obj\Debug\netcoreapp3.1\testeGrupoFleuryAPI.AssemblyInfoInputs.cache
 C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\obj\Debug\netcoreapp3.1\testeGrupoFleuryAPI.AssemblyInfo.cs
-C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\obj\Debug\netcoreapp3.1\testeGrupoFleuryAPI.csproj.CoreCompileInputs.cache
-C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\obj\Debug\netcoreapp3.1\testeGrupoFleuryAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -107,3 +105,11 @@ C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\r
 C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\testeGrupoFleuryAPI.xml
+C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\obj\Debug\netcoreapp3.1\testeGrupoFleuryAPI.csproj.CoreCompileInputs.cache
+C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\obj\Debug\netcoreapp3.1\testeGrupoFleuryAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\projetos_C#\testeGrupoFleuryAPI\testeGrupoFleuryAPI\obj\Debug\netcoreapp3.1\testeGrupoFleuryAPI.MvcApplicationPartsAssemblyInfo.cache

@@ -28,6 +28,10 @@ namespace testeGrupoFleuryAPI.Controllers
               return Ok(clientes);
        }
 
+
+    /*
+        // SOMENTE PARA TESTE
+
         // GET: api/<ClienteController>/5
         [HttpGet("{id}")]
         public ActionResult Get(int id)
@@ -40,6 +44,6 @@ namespace testeGrupoFleuryAPI.Controllers
             }
             return Ok();
         }
-
+    */
     }
 }

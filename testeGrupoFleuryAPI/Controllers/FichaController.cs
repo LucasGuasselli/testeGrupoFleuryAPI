@@ -26,25 +26,30 @@ namespace testeGrupoFleuryAPI.Controllers
        {
            var fichas = _context.Fichas.ToList();
               return Ok(fichas);
-       }
+       }        
 
 
-    /*
-        //USADO SOMENTE PARA TESTE
+        /*
+            //USADO SOMENTE PARA TESTE
 
-        // GET: api/<FichaController>/5
-        [HttpGet("{id}")]
-        public ActionResult Get(int id)
-        {
-            var ficha = new Ficha { DataNascimento = DateTime.Now , ClienteId = 1, UnidadeId = 2};
-            using (var contexto = new FichaContext())
+            // GET: api/<FichaController>/5
+            [HttpGet("{id}")]
+            public ActionResult Get(int id)
             {
-                contexto.Fichas.Add(ficha);
-                    contexto.SaveChanges();
+                var ficha = new Ficha { DataNascimento = DateTime.Now , ClienteId = 1, UnidadeId = 2};
+                using (var contexto = new FichaContext())
+                {
+                    contexto.Fichas.Add(ficha);
+                        contexto.SaveChanges();
+                }
+                return Ok();
             }
-            return Ok();
-        }
-    */
+        */
 
     }
+
+    
+
+
+
 }
