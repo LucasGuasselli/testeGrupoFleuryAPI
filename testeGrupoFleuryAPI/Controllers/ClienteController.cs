@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using testeGrupoFleuryAPI.Dominio;
 using testeGrupoFleuryAPI.Reporitory;
 
@@ -24,26 +25,28 @@ namespace testeGrupoFleuryAPI.Controllers
        [HttpGet]
        public ActionResult Get()
        {
-           var clientes = _context.Clientes.ToList();
+            var clientes = _context.Clientes.ToList();
               return Ok(clientes);
-       }
+       }       
 
 
-    /*
-        // SOMENTE PARA TESTE
+        /*
+            // SOMENTE PARA TESTE
 
-        // GET: api/<ClienteController>/5
-        [HttpGet("{id}")]
-        public ActionResult Get(int id)
-        {
-            var cliente = new Cliente { Nome = "Lucas"};
-            using (var contexto = new FichaContext())
+            // GET: api/<ClienteController>/5
+            [HttpGet("{id}")]
+            public ActionResult Get(int id)
             {
-                contexto.Clientes.Add(cliente);
-                    contexto.SaveChanges();
+                var cliente = new Cliente { Nome = "Lucas"};
+                using (var contexto = new FichaContext())
+                {
+                    contexto.Clientes.Add(cliente);
+                        contexto.SaveChanges();
+                }
+                return Ok();
             }
-            return Ok();
-        }
-    */
+        */
     }
 }
+
+

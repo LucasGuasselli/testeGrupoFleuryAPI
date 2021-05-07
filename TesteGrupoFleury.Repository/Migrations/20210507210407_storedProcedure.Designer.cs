@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using testeGrupoFleuryAPI.Reporitory;
 
 namespace testeGrupoFleuryAPI.Repository.Migrations
 {
     [DbContext(typeof(FichaContext))]
-    partial class FichaContextModelSnapshot : ModelSnapshot
+    [Migration("20210507210407_storedProcedure")]
+    partial class storedProcedure
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -22,6 +22,8 @@ namespace testeGrupoFleuryAPI.Reporitory
         public DbSet<Ficha> Fichas { get; set; }
         public DbSet<Unidade> Unidades { get; set; }
         public DbSet<Item> Itens { get; set; }
+        public DbSet<StoredProcedure> StoredProcedures { get; set; }
+            
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
